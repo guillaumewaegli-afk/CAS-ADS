@@ -1,11 +1,11 @@
-Moduel 1 - Purpose and Format
+CAS Applied Data Science Module 1
 
-Purpose
-- Think about Data
-- Get used to the tools for working with data
-- Establish skills needed for the upcoming modules
+Target group
 
-Format:
-- Presentations
-- Discussions
-- Work on notebooks
+Graduates and professionals enrolled for the CAS Applied Data Science
+Prerequisites
+
+University or University of Applied Sciences level degree (bachelor, master, phd)
+Methods
+
+Lectures, tutorials, discussions, project work with poster presentation
